@@ -1,0 +1,24 @@
+_repo: Orjakauppias-Tamango-ym-muita-novelleja_71839
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Merimée, Prosper
+    gutenberg_agent_id: '56421'
+    url: http://www.gutenberg.org/2009/agents/56421
+description: ''
+gutenberg_issued: '2023-10-09'
+identifiers:
+  gutenberg: '71839'
+language: fi
+pgterms:marc905: 20230704020104merime
+pgterms:marc906: '1912'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Orjakauppias Tamango y.m. muita novelleja
+url: http://www.gutenberg.org/ebooks/71839
